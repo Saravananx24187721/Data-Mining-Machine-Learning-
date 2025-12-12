@@ -1,4 +1,5 @@
-DMML Project (Predictive Analytics for Municipal Operations: A Multi-Dataset Study ofNew York City)
+DMML Project (Predictive Analytics for Municipal Operations: A Multi-Dataset Study of
+New York City)
 ====================================
 
 Project Description
@@ -17,7 +18,7 @@ Files Processed
 Processing Steps
 ----------------
 
-Step 1: Data Loading and Initial Analysis
+Step 1: Data Loading and Initial Analysis.
 - Loaded 4 CSV files with different encodings
 - Dataset sizes range from 34,708 to 2,225,404 records
 - Columns range from 18 to 54 features per dataset
